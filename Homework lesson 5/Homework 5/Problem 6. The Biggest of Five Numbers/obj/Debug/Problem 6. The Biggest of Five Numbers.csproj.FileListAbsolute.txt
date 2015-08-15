@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 6. The Biggest of Five Numbers\bin\Debug\Problem_6.The_Biggest_of_Five_Numbers.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 6. The Biggest of Five Numbers\bin\Debug\Problem_6.The_Biggest_of_Five_Numbers.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 6. The Biggest of Five Numbers\bin\Debug\Problem_6.The_Biggest_of_Five_Numbers.pdb
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 6. The Biggest of Five Numbers\obj\Debug\Problem_6.The_Biggest_of_Five_Numbers.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 6. The Biggest of Five Numbers\obj\Debug\Problem_6.The_Biggest_of_Five_Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb

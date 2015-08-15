@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Employee Data\bin\Debug\Employee Data.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Employee Data\bin\Debug\Employee Data.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Employee Data\bin\Debug\Employee Data.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Employee Data\obj\Debug\Employee Data.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Employee Data\obj\Debug\Employee Data.pdb

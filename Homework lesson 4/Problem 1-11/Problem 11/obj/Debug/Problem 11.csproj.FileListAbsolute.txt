@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 11\bin\Debug\Problem 11.exe.config
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 11\bin\Debug\Problem 11.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 11\bin\Debug\Problem 11.pdb
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 11\obj\Debug\Problem 11.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 11\obj\Debug\Problem 11.pdb

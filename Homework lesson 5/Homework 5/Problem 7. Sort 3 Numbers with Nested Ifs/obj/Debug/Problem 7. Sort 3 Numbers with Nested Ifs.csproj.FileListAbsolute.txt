@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb

@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe.config
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.pdb
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers\obj\Debug\Problem 1. Sum of 3 Numbers.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.pdb

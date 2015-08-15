@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 9. Exchange Variable Values\obj\Debug\Problem_9.Exchange_Variable_Values.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 9. Exchange Variable Values\obj\Debug\Problem_9.Exchange_Variable_Values.pdb

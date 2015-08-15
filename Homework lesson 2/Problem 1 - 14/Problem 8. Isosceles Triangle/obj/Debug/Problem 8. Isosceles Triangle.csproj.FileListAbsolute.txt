@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.pdb

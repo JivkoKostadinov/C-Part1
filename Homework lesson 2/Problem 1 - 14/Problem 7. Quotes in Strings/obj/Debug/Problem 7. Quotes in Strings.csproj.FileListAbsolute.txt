@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.pdb

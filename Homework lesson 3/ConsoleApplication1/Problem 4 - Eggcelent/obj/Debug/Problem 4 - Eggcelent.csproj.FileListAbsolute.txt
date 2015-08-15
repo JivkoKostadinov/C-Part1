@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem 4 - Eggcelent\bin\Debug\Problem 4 - Eggcelent.exe.config
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem 4 - Eggcelent\bin\Debug\Problem 4 - Eggcelent.exe
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem 4 - Eggcelent\bin\Debug\Problem 4 - Eggcelent.pdb
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem 4 - Eggcelent\obj\Debug\Problem 4 - Eggcelent.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem 4 - Eggcelent\obj\Debug\Problem 4 - Eggcelent.exe
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem 4 - Eggcelent\obj\Debug\Problem 4 - Eggcelent.pdb

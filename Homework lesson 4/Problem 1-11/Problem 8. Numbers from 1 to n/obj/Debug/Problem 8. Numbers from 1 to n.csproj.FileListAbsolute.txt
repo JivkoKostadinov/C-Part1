@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe.config
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.pdb
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 8. Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 8. Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.pdb

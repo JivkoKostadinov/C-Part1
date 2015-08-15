@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.pdb

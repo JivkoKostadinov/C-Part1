@@ -1,0 +1,8 @@
+D:\Programing\Start January 2015\Homework lesson 3\Homework lesson 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programing\Start January 2015\Homework lesson 3\Homework lesson 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programing\Start January 2015\Homework lesson 3\Homework lesson 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programing\Start January 2015\Homework lesson 3\Homework lesson 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programing\Start January 2015\Homework lesson 3\Homework lesson 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Programing Telerik\Start January 2015\part 1 c#\Homework lesson 3\Homework lesson 3\Problem 1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programing Telerik\Start January 2015\part 1 c#\Homework lesson 3\Homework lesson 3\Problem 1\obj\Debug\ConsoleApplication1.exe
+D:\Programing Telerik\Start January 2015\part 1 c#\Homework lesson 3\Homework lesson 3\Problem 1\obj\Debug\ConsoleApplication1.pdb

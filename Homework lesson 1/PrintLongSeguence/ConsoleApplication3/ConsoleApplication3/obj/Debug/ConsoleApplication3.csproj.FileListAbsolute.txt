@@ -1,0 +1,5 @@
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

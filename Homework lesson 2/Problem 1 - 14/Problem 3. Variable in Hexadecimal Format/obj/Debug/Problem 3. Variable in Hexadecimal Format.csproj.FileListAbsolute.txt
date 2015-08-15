@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb

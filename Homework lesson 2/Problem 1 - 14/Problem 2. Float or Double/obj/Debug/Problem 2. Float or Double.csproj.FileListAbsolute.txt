@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb

@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\Problem 1. Exchange If Greater.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

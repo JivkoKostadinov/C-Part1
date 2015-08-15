@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.exe.config
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.pdb
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 6. Quadratic Equation\obj\Debug\Problem_6.Quadratic_Equation.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 6. Quadratic Equation\obj\Debug\Problem_6.Quadratic_Equation.pdb

@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.pdb
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.pdb

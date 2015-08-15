@@ -1,0 +1,8 @@
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.pdb
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 9. Play with Int, Double and String\obj\Debug\Problem_9.Play_with_Int__Double_and_String.exe
+D:\Programing\Start January 2015\Homework lesson 5\ConsoleApplication1\Problem 9. Play with Int, Double and String\obj\Debug\Problem_9.Play_with_Int__Double_and_String.pdb
+D:\Programing\Start January 2015\Homework lesson 5\Homework 5\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.exe.config
+D:\Programing\Start January 2015\Homework lesson 5\Homework 5\Problem 9. Play with Int, Double and String\obj\Debug\Problem_9.Play_with_Int__Double_and_String.exe
+D:\Programing\Start January 2015\Homework lesson 5\Homework 5\Problem 9. Play with Int, Double and String\obj\Debug\Problem_9.Play_with_Int__Double_and_String.pdb

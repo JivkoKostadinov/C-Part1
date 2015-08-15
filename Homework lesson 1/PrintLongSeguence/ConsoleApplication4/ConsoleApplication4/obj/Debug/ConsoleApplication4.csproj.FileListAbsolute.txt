@@ -1,0 +1,6 @@
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\jivko\Desktop\Homework lesson 1 Jivko Kostadinov\PrintLongSeguence\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

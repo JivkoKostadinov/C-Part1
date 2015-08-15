@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Diamon trolls\bin\Debug\Diamon trolls.exe.config
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Diamon trolls\bin\Debug\Diamon trolls.exe
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Diamon trolls\bin\Debug\Diamon trolls.pdb
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Diamon trolls\obj\Debug\Diamon trolls.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Diamon trolls\obj\Debug\Diamon trolls.exe
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Diamon trolls\obj\Debug\Diamon trolls.pdb

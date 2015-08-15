@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem2AngryFemaleGPS\bin\Debug\Problem2AngryFemaleGPS.exe.config
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem2AngryFemaleGPS\bin\Debug\Problem2AngryFemaleGPS.exe
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem2AngryFemaleGPS\bin\Debug\Problem2AngryFemaleGPS.pdb
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem2AngryFemaleGPS\obj\Debug\Problem2AngryFemaleGPS.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem2AngryFemaleGPS\obj\Debug\Problem2AngryFemaleGPS.exe
+D:\Programing\Start January 2015\Homework lesson 3\ConsoleApplication1\Problem2AngryFemaleGPS\obj\Debug\Problem2AngryFemaleGPS.pdb

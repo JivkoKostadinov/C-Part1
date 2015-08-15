@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\Homework lesson 3\Ones and Zeros\Ones and Zeros\bin\Debug\Ones and Zeros.exe.config
+D:\Programing\Start January 2015\Homework lesson 3\Ones and Zeros\Ones and Zeros\bin\Debug\Ones and Zeros.exe
+D:\Programing\Start January 2015\Homework lesson 3\Ones and Zeros\Ones and Zeros\bin\Debug\Ones and Zeros.pdb
+D:\Programing\Start January 2015\Homework lesson 3\Ones and Zeros\Ones and Zeros\obj\Debug\Ones and Zeros.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\Homework lesson 3\Ones and Zeros\Ones and Zeros\obj\Debug\Ones and Zeros.exe
+D:\Programing\Start January 2015\Homework lesson 3\Ones and Zeros\Ones and Zeros\obj\Debug\Ones and Zeros.pdb

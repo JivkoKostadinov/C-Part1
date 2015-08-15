@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb

@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+D:\Programing\Start January 2015\Homework lesson 4\Problem 1. Sum of 3 Numbers\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+D:\Programing\Start January 2015\Homework lesson 2\Problem 1. Declare Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb
